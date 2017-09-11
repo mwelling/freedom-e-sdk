@@ -1,6 +1,6 @@
 # README #
 
-This repository tracks the main repository maintained by SiFive, Inc, makes it easy to get started developing software for the Freedom E RISC-V platform.
+This repository, tracking the main repository maintained by SiFive, Inc, makes it easy to get started developing software for the Freedom E RISC-V platform.
 Additional support is added of the LoFive board.
 
 ### Contents ###
