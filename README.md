@@ -1,6 +1,7 @@
 # README #
 
-This repository, maintained by SiFive, Inc, makes it easy to get started developing software for the Freedom E RISC-V platform. 
+This repository tracks the main repository maintained by SiFive, Inc, makes it easy to get started developing software for the Freedom E RISC-V platform.
+Additional support is added of the LoFive board.
 
 ### Contents ###
 
@@ -14,7 +15,7 @@ This repository, maintained by SiFive, Inc, makes it easy to get started develop
 First, clone this repository:
 
 ```
-git clone --recursive https://github.com/sifive/freedom-e-sdk.git
+git clone --recursive https://github.com/mwelling/freedom-e-sdk.git
 ```
 
 To see Makefile options:
@@ -34,7 +35,7 @@ Next, build the tools:
 
 ```
 cd freedom-e-sdk
-make tools [BOARD=freedom-e300-hifive1]
+make tools [BOARD=freedom-e300-lofive]
 ```
 
 If your machine has enough resources, you can speed up the build process by adding `-j n` to `make`, where `n` is the number of processors of your build system.
@@ -84,7 +85,7 @@ To compile a bare-metal RISC-V program:
 
 ```
 cd freedom-e-sdk
-make software [PROGRAM=demo_gpio] [BOARD=freedom-e300-hifive1]
+make software [PROGRAM=demo_gpio] [BOARD=freedom-e300-lofive]
 ```
 
 Run `make help` for more commands.
