@@ -12,7 +12,7 @@ include $(extra_configs)
 endif
 
 # Default target
-BOARD ?= freedom-e300-hifive1
+BOARD ?= freedom-e300-lofive
 PROGRAM ?= demo_gpio
 LINK_TARGET ?= flash
 GDB_PORT ?= 3333
