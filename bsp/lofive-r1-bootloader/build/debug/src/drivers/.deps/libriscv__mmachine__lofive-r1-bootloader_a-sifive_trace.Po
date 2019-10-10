@@ -1,5 +1,0 @@
-src/drivers/libriscv__mmachine__lofive-r1-bootloader_a-sifive_trace.o: \
- /home/michael/projects/freedom-e-sdk/freedom-metal/src/drivers/sifive_trace.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

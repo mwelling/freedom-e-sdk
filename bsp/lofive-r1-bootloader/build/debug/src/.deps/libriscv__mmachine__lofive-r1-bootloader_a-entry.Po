@@ -1,2 +1,0 @@
-src/libriscv__mmachine__lofive-r1-bootloader_a-entry.o: \
- /home/michael/projects/freedom-e-sdk/freedom-metal/src/entry.S

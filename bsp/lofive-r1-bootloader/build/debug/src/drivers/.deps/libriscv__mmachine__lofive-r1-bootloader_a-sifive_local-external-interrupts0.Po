@@ -1,5 +1,0 @@
-src/drivers/libriscv__mmachine__lofive-r1-bootloader_a-sifive_local-external-interrupts0.o: \
- /home/michael/projects/freedom-e-sdk/freedom-metal/src/drivers/sifive_local-external-interrupts0.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

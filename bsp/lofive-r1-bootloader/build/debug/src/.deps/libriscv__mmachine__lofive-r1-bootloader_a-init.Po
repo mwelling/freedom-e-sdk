@@ -1,5 +1,0 @@
-src/libriscv__mmachine__lofive-r1-bootloader_a-init.o: \
- /home/michael/projects/freedom-e-sdk/freedom-metal/src/init.c \
- /home/michael/projects/freedom-e-sdk/freedom-metal/metal/init.h
-
-/home/michael/projects/freedom-e-sdk/freedom-metal/metal/init.h:
