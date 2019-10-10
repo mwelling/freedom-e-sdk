@@ -57,7 +57,7 @@
 	url = https://github.com/sifive/benchmark-coremark.git
 [submodule "freedom-devicetree-tools"]
 	path = freedom-devicetree-tools
-	url = https://github.com/sifive/freedom-devicetree-tools.git
+	url = https://github.com/mwelling/freedom-devicetree-tools.git
 [submodule "software/test-coreip"]
 	path = software/test-coreip
 	url = https://github.com/sifive/test-coreip.git

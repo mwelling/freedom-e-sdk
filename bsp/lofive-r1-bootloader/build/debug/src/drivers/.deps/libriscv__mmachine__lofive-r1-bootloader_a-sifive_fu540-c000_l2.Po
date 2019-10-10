@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine__lofive-r1-bootloader_a-sifive_fu540-c000_l2.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/src/drivers/sifive_fu540-c000_l2.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

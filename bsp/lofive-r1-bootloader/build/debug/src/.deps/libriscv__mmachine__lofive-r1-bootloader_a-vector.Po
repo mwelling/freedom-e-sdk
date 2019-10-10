@@ -1,0 +1,2 @@
+src/libriscv__mmachine__lofive-r1-bootloader_a-vector.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/src/vector.S

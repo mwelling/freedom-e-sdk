@@ -1,0 +1,2 @@
+gloss/crt0.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/gloss/crt0.S

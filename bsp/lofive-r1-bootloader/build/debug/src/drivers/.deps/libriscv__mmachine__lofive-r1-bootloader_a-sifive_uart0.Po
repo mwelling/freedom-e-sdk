@@ -1,0 +1,116 @@
+src/drivers/libriscv__mmachine__lofive-r1-bootloader_a-sifive_uart0.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/src/drivers/sifive_uart0.c \
+ metal/machine/platform.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_uart0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/clock.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/8.2.0/include/stddef.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/compiler.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/riscv_plic0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/riscv_cpu.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/cpu.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/interrupt.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/8.2.0/include/stdint.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/stdint.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/machine/_default_types.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/features.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/_newlib_version.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_intsup.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_stdint.h \
+ metal/machine.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/gpio.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/io.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/uart.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/fixed-clock.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/memory.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/riscv_clint0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/pmp.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/led.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_rtc0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/rtc.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_spi0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/spi.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_wdog0.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/watchdog.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h
+
+metal/machine/platform.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_uart0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/clock.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/8.2.0/include/stddef.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/compiler.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/riscv_plic0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/riscv_cpu.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/cpu.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/interrupt.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/8.2.0/include/stdint.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/stdint.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/machine/_default_types.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/features.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/_newlib_version.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_intsup.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_stdint.h:
+
+metal/machine.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/gpio.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/io.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/uart.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/fixed-clock.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/memory.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/riscv_clint0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/pmp.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/led.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_rtc0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/rtc.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_spi0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/spi.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_wdog0.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/watchdog.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:

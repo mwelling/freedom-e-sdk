@@ -1,0 +1,8 @@
+src/libriscv__mmachine__lofive-r1-bootloader_a-clock.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/src/clock.c \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/metal/clock.h \
+ /home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/8.2.0/include/stddef.h
+
+/home/michael/projects/freedom-e-sdk/freedom-metal/metal/clock.h:
+
+/home/michael/projects/freedom-e-toolchain/riscv64-unknown-elf-gcc-8.2.0-2019.02.0-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/8.2.0/include/stddef.h:

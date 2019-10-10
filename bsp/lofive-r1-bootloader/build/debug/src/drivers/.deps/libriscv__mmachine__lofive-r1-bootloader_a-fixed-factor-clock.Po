@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine__lofive-r1-bootloader_a-fixed-factor-clock.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/src/drivers/fixed-factor-clock.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

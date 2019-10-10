@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine__lofive-r1-bootloader_a-sifive_clic0.o: \
+ /home/michael/projects/freedom-e-sdk/freedom-metal/src/drivers/sifive_clic0.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:
